@@ -146,16 +146,15 @@ $(document).ready(() => {
                     .toLowerCase();
                 portfolioView({
                     namePlate: card.querySelector(".title").textContent,
-                    category: "Web Development",
-                    project_brief: `Lorem ipsum, dolor sit amet consectetur
-                                    adipisicing elit. At corrupti modi perferendis
-                                    iure corporis dolores minus asperiores nemo
-                                    debitis veritatis id placeat, similique eum
-                                    recusandae ipsa quia cum earum nam?`,
+                    category: "Machine Learning",
+                    project_brief: `Academic machine learning work focused on
+                                    supervised models, evaluation workflow, and
+                                    turning structured data into useful
+                                    predictions through hands-on experimentation.`,
 
-                    project_date: "2019",
-                    project_client: "XYZ Corporation",
-                    project_link: `www.${website}.com`,
+                    project_date: "Academic Project",
+                    project_client: "Model Development",
+                    project_link: "manoj-ms-portfolio.netlify.app",
 
                     image: [
                         "resources/img/portfolios/web/1.jpg",
@@ -178,18 +177,16 @@ $(document).ready(() => {
                     .toLowerCase();
                 portfolioView({
                     namePlate: card.querySelector(".title").textContent,
-                    category: "Logo Designing",
-                    project_brief: `Lorem ipsum, dolor sit amet consectetur
-                                    adipisicing elit. At corrupti modi perferendis
-                                    iure corporis dolores minus asperiores nemo
-                                    debitis veritatis id placeat, similique eum
-                                    recusandae ipsa quia cum earum nam?`,
+                    category: "Core Learning",
+                    project_brief: `A learning-focused collection covering Python
+                                    foundations, machine learning concepts, data
+                                    preparation, documentation, and problem
+                                    solving habits built through coursework and
+                                    practice.`,
 
-                    project_date: "2019",
-                    project_client: `${
-                        card.querySelector(".title").textContent
-                    } Corporation`,
-                    project_link: `www.${website}.com`,
+                    project_date: "Learning Track",
+                    project_client: "Foundations",
+                    project_link: "manoj-ms-portfolio.netlify.app",
 
                     image: [
                         "resources/img/portfolios/logo/1.jpg",
@@ -212,18 +209,15 @@ $(document).ready(() => {
                     .toLowerCase();
                 portfolioView({
                     namePlate: card.querySelector(".title").textContent,
-                    category: "Graphics Designing",
-                    project_brief: `Lorem ipsum, dolor sit amet consectetur
-                                    adipisicing elit. At corrupti modi perferendis
-                                    iure corporis dolores minus asperiores nemo
-                                    debitis veritatis id placeat, similique eum
-                                    recusandae ipsa quia cum earum nam?`,
+                    category: "Python Automation",
+                    project_brief: `Hands-on Python workflows built for web
+                                    scraping, structured CSV and JSON outputs,
+                                    source URL collection, reporting, and data
+                                    organization for practical use.`,
 
-                    project_date: "2019",
-                    project_client: `${
-                        card.querySelector(".title").textContent
-                    } Corporation`,
-                    project_link: `www.${website}.com`,
+                    project_date: "Practical Workflow",
+                    project_client: "Data Collection",
+                    project_link: "manoj-ms-portfolio.netlify.app",
 
                     image: [
                         "resources/img/portfolios/card/1.jpg",
@@ -246,18 +240,15 @@ $(document).ready(() => {
                     .toLowerCase();
                 portfolioView({
                     namePlate: card.querySelector(".title").textContent,
-                    category: "Icon Designing",
-                    project_brief: `Lorem ipsum, dolor sit amet consectetur
-                                    adipisicing elit. At corrupti modi perferendis
-                                    iure corporis dolores minus asperiores nemo
-                                    debitis veritatis id placeat, similique eum
-                                    recusandae ipsa quia cum earum nam?`,
+                    category: "Cloud and Certification",
+                    project_brief: `Cloud learning milestones centered on AWS S3
+                                    basics, storage configuration, versioning,
+                                    backup planning, and understanding how static
+                                    deployments are managed safely.`,
 
-                    project_date: "2019",
-                    project_client: `${
-                        card.querySelector(".title").textContent
-                    } Corporation`,
-                    project_link: `www.${website}.com`,
+                    project_date: "Certification / Practice",
+                    project_client: "Cloud Basics",
+                    project_link: "manoj-ms-portfolio.netlify.app",
 
                     image: [
                         "resources/img/portfolios/icon/1.jpg",
@@ -280,18 +271,15 @@ $(document).ready(() => {
                     .toLowerCase();
                 portfolioView({
                     namePlate: card.querySelector(".title").textContent,
-                    category: "UI/UX Designing",
-                    project_brief: `Lorem ipsum, dolor sit amet consectetur
-                                    adipisicing elit. At corrupti modi perferendis
-                                    iure corporis dolores minus asperiores nemo
-                                    debitis veritatis id placeat, similique eum
-                                    recusandae ipsa quia cum earum nam?`,
+                    category: "NLP and Deep Learning",
+                    project_brief: `Natural language processing and deep learning
+                                    practice built with Python and TensorFlow,
+                                    including tweet emotion recognition and
+                                    dataset-driven experimentation.`,
 
-                    project_date: "2019",
-                    project_client: `${
-                        card.querySelector(".title").textContent
-                    } Corporation`,
-                    project_link: `www.${website}.com`,
+                    project_date: "Academic Project",
+                    project_client: "TensorFlow / NLP",
+                    project_link: "manoj-ms-portfolio.netlify.app",
 
                     image: [
                         "resources/img/portfolios/app/1.jpg",
